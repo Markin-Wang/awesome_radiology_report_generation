@@ -10,4 +10,4 @@ Radiology Report Generation/Medical Report Generation/Image Captioning
 * Automated Radiographic Report Generation Purely On Transformer: A Multi-criteria Supervised Approach. |[pdf]](https://ieeexplore.ieee.org/document/9768661)|
 
 # **2021** <div id="2021"></div>
-* Cross-modal Memory Networks for Radiology Report Generation. | [pdf](https://aclanthology.org/2021.acl-long.459.pdf) | [code](https://github.com/cuhksz-nlp/r2gencmn)| 
+* Cross-modal Memory Networks for Radiology Report Generation. | [pdf](https://aclanthology.org/2021.acl-long.459.pdf) |[code](https://github.com/cuhksz-nlp/r2gencmn)| 
