@@ -6,8 +6,8 @@ Radiology Report Generation/Medical Report Generation/Image Captioning
 * 2021 <span id="2021"></span>
 
 
-# **2022**
+# **2022**(#2022)
 * Automated Radiographic Report Generation Purely On Transformer: A Multi-criteria Supervised Approach. [[pdf]](https://ieeexplore.ieee.org/document/9768661)
 
-# **2021**
+# **2021**(#2021)
 * Automated Radiographic Report Generation Purely On Transformer: A Multi-criteria Supervised Approach. [[pdf]](https://ieeexplore.ieee.org/document/9768661)
