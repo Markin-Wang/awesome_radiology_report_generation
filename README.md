@@ -2,8 +2,8 @@
 Radiology Report Generation/Medical Report Generation/Image Captioning
 
 ## Years:
-* 2022(#2022) 
-* 2021(#2021)
+* [2022](#2022) 
+* [2021](#2021)
 
 
 # **2022** <div id="2022"></div>
