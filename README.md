@@ -15,7 +15,7 @@ Radiology Report Generation/Medical Report Generation/Image Captioning
 # **2021** <div id="2021"></div>
 * Cross-modal Memory Networks for Radiology Report Generation, *ACL Main*. |[pdf](https://aclanthology.org/2021.acl-long.459.pdf)|[code](https://github.com/cuhksz-nlp/r2gencmn)| 
 * Improving Image Captioning by Leveraging Intra- and Inter-layer Global Representation in Transformer Network, *AAAI*. |[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/16258)|[code](https://github.com/luo3300612/image-captioning-DLCT)| 
-
+* Contrastive Attention for Automatic Chest X-ray Report Generation, *ACL Findings*. |[pdf](https://aclanthology.org/2021.findings-acl.23.pdf)|
 
 
 # **2020** <div id="2020"></div>
