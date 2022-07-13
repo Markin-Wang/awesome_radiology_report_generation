@@ -9,7 +9,7 @@ Radiology Report Generation/Medical Report Generation/Image Captioning
 
 # **2022** <div id="2022"></div>
 * Automated Radiographic Report Generation Purely On Transformer: A Multi-criteria Supervised Approach, *TMI*. |[pdf](https://ieeexplore.ieee.org/document/9768661)|
-* Cross-modal Prototype Driven Network for Radiology Report Generation, *ECCV 2022*. |[pdf](https://arxiv.org/abs/2207.04818)|
+* Cross-modal Prototype Driven Network for Radiology Report Generation, *ECCV*. |[pdf](https://arxiv.org/abs/2207.04818)|
 
 
 
