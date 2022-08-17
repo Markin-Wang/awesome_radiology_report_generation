@@ -5,7 +5,7 @@ Radiology Report Generation/Medical Report Generation/Image Captioning
 * [2022](#2022) 
 * [2021](#2021)
 * [2020](#2020)
-* [2020](#2019)
+* [2019](#2019)
 
 
 # **2022** <div id="2022"></div>
