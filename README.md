@@ -12,6 +12,8 @@ Radiology Report Generation/Medical Report Generation/Image Captioning
 * Automated Radiographic Report Generation Purely On Transformer: A Multi-criteria Supervised Approach, *TMI*. |[pdf](https://ieeexplore.ieee.org/document/9768661)|
 * Cross-modal Prototype Driven Network for Radiology Report Generation, *ECCV*. |[pdf](https://arxiv.org/abs/2207.04818)|[code](https://github.com/Markin-Wang/XProNet)| 
 * Uncertainty-aware report generation for chest X-rays by variational topic inference, *Medical Image Analysis*. |[pdf](https://www.sciencedirect.com/science/article/pii/S1361841522002341)|[code](https://github.com/ivonajdenkoska/variational-xray-report-gen)| 
+* Radiology Report Generation with General and Specific Knowledge,*TMI*,|[pdf](https://arxiv.org/abs/2112.15009)|
+* 
 
 
 
@@ -25,6 +27,7 @@ Radiology Report Generation/Medical Report Generation/Image Captioning
 # **2020** <div id="2020"></div>
 * Comprehensive Image Captioning via Scene Graph Decomposition, *ECCV*. |[pdf](https://dl.acm.org/doi/abs/10.1007/978-3-030-58568-6_13)|[code](https://github.com/YiwuZhong/Sub-GC)|
 * Generating Radiology Reports via Memory-driven Transformer, *EMNLP Main*. |[pdf](https://aclanthology.org/2020.emnlp-main.112/)|[code](https://github.com/cuhksz-nlp/R2Gen)| 
+* Improving Factual Completeness and Consistency of Image-to-text Radiology Report Generation, *NAACL Main* |[pdf](https://arxiv.org/abs/2010.10042|[code](https://github.com/ysmiura/ifcc)| 
 
 
 # **2019** <div id="2019"></div>
