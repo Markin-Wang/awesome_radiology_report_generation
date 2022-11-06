@@ -9,10 +9,10 @@ Radiology Report Generation/Medical Report Generation/Image Captioning
 
 
 # **2022** <div id="2022"></div>
-* Uncertainty-aware report generation for chest X-rays by variational topic inference, *MedIA*. |[pdf](https://www.sciencedirect.com/science/article/pii/S1361841522002341)|[code](https://github.com/ivonajdenkoska/variational-xray-report-gen)| 
+* Uncertainty-aware report generation for chest X-rays by variational topic inference, *Medical Image Analysis*. |[pdf](https://www.sciencedirect.com/science/article/pii/S1361841522002341)|[code](https://github.com/ivonajdenkoska/variational-xray-report-gen)| 
 * Automated Radiographic Report Generation Purely On Transformer: A Multi-criteria Supervised Approach, *TMI*. |[pdf](https://ieeexplore.ieee.org/document/9768661)|
 * Cross-modal Prototype Driven Network for Radiology Report Generation, *ECCV*. |[pdf](https://arxiv.org/abs/2207.04818)|[code](https://github.com/Markin-Wang/XProNet)| 
-* Uncertainty-aware report generation for chest X-rays by variational topic inference, *Medical Image Analysis*. |[pdf](https://www.sciencedirect.com/science/article/pii/S1361841522002341)|[code](https://github.com/ivonajdenkoska/variational-xray-report-gen)| 
+
 
 
 
