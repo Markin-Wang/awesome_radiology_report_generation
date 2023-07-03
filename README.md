@@ -34,7 +34,7 @@ Radiology Report Generation/Medical Report Generation/Image Captioning
 # **2020** <div id="2020"></div>
 * Comprehensive Image Captioning via Scene Graph Decomposition, *ECCV*. |[pdf](https://dl.acm.org/doi/abs/10.1007/978-3-030-58568-6_13)|[code](https://github.com/YiwuZhong/Sub-GC)|
 * Generating Radiology Reports via Memory-driven Transformer, *EMNLP Main*. |[pdf](https://aclanthology.org/2020.emnlp-main.112/)|[code](https://github.com/cuhksz-nlp/R2Gen)| 
-* Improving Factual Completeness and Consistency of Image-to-text Radiology Report Generation, *NAACL Main* |[pdf](https://arxiv.org/abs/2010.10042|[code](https://github.com/ysmiura/ifcc)| 
+* Improving Factual Completeness and Consistency of Image-to-text Radiology Report Generation, *NAACL Main* |[pdf](https://arxiv.org/abs/2010.10042)|[code](https://github.com/ysmiura/ifcc)| 
 
 
 # **2019** <div id="2019"></div>
