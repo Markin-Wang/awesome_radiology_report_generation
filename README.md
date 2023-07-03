@@ -10,8 +10,8 @@ Radiology Report Generation/Medical Report Generation/Image Captioning
 
 
 # **2023** <div id="2023"></div>
-* KiUT: Knowledge-injected U-Transformer for Radiology Report Generation, *CVPR* |[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_KiUT_Knowledge-Injected_U-Transformer_for_Radiology_Report_Generation_CVPR_2023_paper.pdf)|
-* Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation, *Medical Image Analysis*. |[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Dynamic_Graph_Enhanced_Contrastive_Learning_for_Chest_X-Ray_Report_Generation_CVPR_2023_paper.pdf)|[code](https://github.com/mlii0117/DCL)| 
+* KiUT: Knowledge-injected U-Transformer for Radiology Report Generation, *CVPR*. |[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_KiUT_Knowledge-Injected_U-Transformer_for_Radiology_Report_Generation_CVPR_2023_paper.pdf)|
+* Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation, *CVPR*. |[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Dynamic_Graph_Enhanced_Contrastive_Learning_for_Chest_X-Ray_Report_Generation_CVPR_2023_paper.pdf)|[code](https://github.com/mlii0117/DCL)| 
 
 
 # **2022** <div id="2022"></div>
