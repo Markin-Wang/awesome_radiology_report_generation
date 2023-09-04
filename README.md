@@ -16,6 +16,8 @@ Radiology Report Generation/Medical Report Generation/Image Captioning
 
 
 # **2022** <div id="2022"></div>
+* Injecting Semantic Concepts into End-to-End Image Captioning, *CVPR*. |[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Fang_Injecting_Semantic_Concepts_Into_End-to-End_Image_Captioning_CVPR_2022_paper.pdf)|[code](https://github.com/jacobswan1/ViTCAP)|
+* PTSN: Progressive Tree-Structured Prototype Networ, *ACM MM*. |[pdf](https://dl.acm.org/doi/abs/10.1145/3503161.3548024)|[code](https://github.com/NovaMind-Z/PTSN)| 
 * Reinforced Cross-modal Alignment for Radiology Report Generation, *ACL Findings*. |[pdf](https://aclanthology.org/2022.findings-acl.38/)|
 * Uncertainty-aware report generation for chest X-rays by variational topic inference, *Medical Image Analysis*. |[pdf](https://www.sciencedirect.com/science/article/pii/S1361841522002341)|[code](https://github.com/ivonajdenkoska/variational-xray-report-gen)| 
 * Automated Radiographic Report Generation Purely On Transformer: A Multi-criteria Supervised Approach, *TMI*. |[pdf](https://ieeexplore.ieee.org/document/9768661)|
