@@ -13,6 +13,12 @@ Radiology Report Generation/Medical Report Generation/Image Captioning
 * Bootstrapping Large Language Models for Radiology Report Generation |pdf|[code](https://github.com/synlp/R2-LLM)|
 
 # **2023** <div id="2023"></div>
+* Style-Aware Radiology Report Generation with RadGraph and Few-Shot Prompting, *EMNLP*. |[pdf](https://aclanthology.org/2023.findings-emnlp.977.pdf)
+* PhenotypeCLIP: Phenotype-based Contrastive Learning for Medical Imaging Report Generation , *EMNLP*. |[pdf](https://aclanthology.org/2023.emnlp-main.989.pdf)
+* RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning, *EMNLP*. |[pdf](https://aclanthology.org/2023.findings-emnlp.140.pdf)| [code](https://github.com/wjhou/recap)|
+* CAMANet: Class Activation Map Guided Attention Network for Radiology Report Generation, *IEEE J-BHI*. |[pdf]()| [code]()|
+* Replace and Report: NLP Assisted Radiology Report Generation, *ACL*. |[pdf](https://aclanthology.org/2023.findings-acl.683.pdf)|
+* ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning, *ACL*. |[pdf](https://aclanthology.org/2023.acl-long.451.pdf)| [code](https://github.com/wjhou/ORGan)|
 * A Systematic Review of Deep Learning-based Research on Radiology Report Generation, *arXiv*. |[pdf](https://arxiv.org/abs/2311.14199.pdf)|[code](https://github.com/synlp/RRG-Review)|
 * METransformer: Radiology Report Generation by Transformer with Multiple Learnable Expert Tokens, *CVPR*. |[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.pdf)|
 * KiUT: Knowledge-injected U-Transformer for Radiology Report Generation, *CVPR*. |[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_KiUT_Knowledge-Injected_U-Transformer_for_Radiology_Report_Generation_CVPR_2023_paper.pdf)|
