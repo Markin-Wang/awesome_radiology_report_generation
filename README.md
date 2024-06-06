@@ -18,6 +18,7 @@ Radiology Report Generation/Medical Report Generation/Image Captioning
 * PhenotypeCLIP: Phenotype-based Contrastive Learning for Medical Imaging Report Generation , *EMNLP*. |[pdf](https://aclanthology.org/2023.emnlp-main.989.pdf)|
 * RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning, *EMNLP*. |[pdf](https://aclanthology.org/2023.findings-emnlp.140.pdf)| [code](https://github.com/wjhou/recap)|
 * CAMANet: Class Activation Map Guided Attention Network for Radiology Report Generation, *IEEE J-BHI*. |[pdf](https://ieeexplore.ieee.org/abstract/document/10400776)| [code](https://github.com/Markin-Wang/CAMANet)|
+* R2GenGPT: Radiology Report Generation with Frozen LLMs, *Meta Radiology*. |[pdf](https://arxiv.org/abs/2309.09812)| [code](https://github.com/wang-zhanyu/R2GenGPT)|
 * Replace and Report: NLP Assisted Radiology Report Generation, *ACL*. |[pdf](https://aclanthology.org/2023.findings-acl.683.pdf)|
 * ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning, *ACL*. |[pdf](https://aclanthology.org/2023.acl-long.451.pdf)| [code](https://github.com/wjhou/ORGan)|
 * A Systematic Review of Deep Learning-based Research on Radiology Report Generation, *arXiv*. |[pdf](https://arxiv.org/abs/2311.14199.pdf)|[code](https://github.com/synlp/RRG-Review)|
