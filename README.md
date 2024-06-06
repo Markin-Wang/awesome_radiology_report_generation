@@ -21,6 +21,7 @@ Radiology Report Generation/Medical Report Generation/Image Captioning
 * R2GenGPT: Radiology Report Generation with Frozen LLMs, *Meta Radiology*. |[pdf](https://arxiv.org/abs/2309.09812)| [code](https://github.com/wang-zhanyu/R2GenGPT)|
 * Replace and Report: NLP Assisted Radiology Report Generation, *ACL*. |[pdf](https://aclanthology.org/2023.findings-acl.683.pdf)|
 * ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning, *ACL*. |[pdf](https://aclanthology.org/2023.acl-long.451.pdf)| [code](https://github.com/wjhou/ORGan)|
+* Can Prompt Learning Benefit Radiology Report Generation?, *Arxiv*. |[pdf](https://arxiv.org/abs/2308.16269)|
 * A Systematic Review of Deep Learning-based Research on Radiology Report Generation, *arXiv*. |[pdf](https://arxiv.org/abs/2311.14199.pdf)|[code](https://github.com/synlp/RRG-Review)|
 * METransformer: Radiology Report Generation by Transformer with Multiple Learnable Expert Tokens, *CVPR*. |[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.pdf)|
 * KiUT: Knowledge-injected U-Transformer for Radiology Report Generation, *CVPR*. |[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_KiUT_Knowledge-Injected_U-Transformer_for_Radiology_Report_Generation_CVPR_2023_paper.pdf)|
