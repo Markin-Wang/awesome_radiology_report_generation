@@ -10,8 +10,13 @@ Radiology Report Generation/Medical Report Generation/Image Captioning
 * [2019](#2019)
 
 # **2024** <div id="2024"></div>
+* Simulating doctors’ thinking logic for chest X-ray report generation via Transformer-based Semantic Query learning, *Medical Image Analysis*. |[pdf](https://github.com/zjukongming/TranSQ.)| 
+* Memory Guided Transformer With Spatio-Semantic Visual Extractor for Medical Report Generation, *IJBHI*. |[pdf](https://ieeexplore.ieee.org/abstract/document/10453958)| 
+* Multi-Grained Radiology Report Generation With Sentence-Level Image-Language Contrastive Learning, *TMI*. |[pdf](https://ieeexplore.ieee.org/abstract/document/10458706)|
+* Complex Organ Mask Guided Radiology Report Generation, *WACV*. |[pdf](https://openaccess.thecvf.com/content/WACV2024/papers/Gu_Complex_Organ_Mask_Guided_Radiology_Report_Generation_WACV_2024_paper.pdf)| [code](https://github.com/GaryGuTC/COMG_model.)|
 * TSGET: Two-Stage Global Enhanced Transformer for Automatic Radiology Report Generation, *IEEE J-BHI*. |[pdf](https://ieeexplore.ieee.org/document/10381879)| [code](https://github.com/SKD-HPC/TSGET)|
-* Bootstrapping Large Language Models for Radiology Report Generation |pdf|[code](https://github.com/synlp/R2-LLM)|
+* Promptmrg: Diagnosis-driven prompts for medical report generation, *AAAI* |[pdf](https://ojs.aaai.org/index.php/AAAI/article/download/28038/28087)|[code](https://github.com/jhb86253817/PromptMRG)|
+* Bootstrapping Large Language Models for Radiology Report Generation, *AAAI* |[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/29826/31434)|[code](https://github.com/synlp/R2-LLM)|
 
 # **2023** <div id="2023"></div>
 * Style-Aware Radiology Report Generation with RadGraph and Few-Shot Prompting, *EMNLP*. |[pdf](https://aclanthology.org/2023.findings-emnlp.977.pdf)|
