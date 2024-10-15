@@ -10,7 +10,7 @@ Radiology Report Generation/Medical Report Generation/Image Captioning
 * [2019](#2019)
 
 # **2024** <div id="2024"></div>
-* Simulating doctors’ thinking logic for chest X-ray report generation via Transformer-based Semantic Query learning, *Medical Image Analysis*. |[pdf](https://github.com/zjukongming/TranSQ.)| 
+* Simulating doctors’ thinking logic for chest X-ray report generation via Transformer-based Semantic Query learning, *Medical Image Analysis*. |[pdf]([https://ieeexplore.ieee.org/abstract/document/10453958](https://www.sciencedirect.com/science/article/pii/S1361841523002426))|[code](https://github.com/zjukongming/TranSQ.)| 
 * Memory Guided Transformer With Spatio-Semantic Visual Extractor for Medical Report Generation, *IJBHI*. |[pdf](https://ieeexplore.ieee.org/abstract/document/10453958)| 
 * Multi-Grained Radiology Report Generation With Sentence-Level Image-Language Contrastive Learning, *TMI*. |[pdf](https://ieeexplore.ieee.org/abstract/document/10458706)|
 * Complex Organ Mask Guided Radiology Report Generation, *WACV*. |[pdf](https://openaccess.thecvf.com/content/WACV2024/papers/Gu_Complex_Organ_Mask_Guided_Radiology_Report_Generation_WACV_2024_paper.pdf)| [code](https://github.com/GaryGuTC/COMG_model.)|
