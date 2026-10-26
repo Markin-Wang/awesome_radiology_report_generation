@@ -2,12 +2,17 @@
 Radiology Report Generation/Medical Report Generation/Image Captioning
 
 ## Years:
+* [2026](#2026) 
 * [2024](#2024) 
 * [2023](#2023) 
 * [2022](#2022) 
 * [2021](#2021)
 * [2020](#2020)
 * [2019](#2019)
+
+# **2026** <div id="2026"></div>
+* Anchoring LLM-based Chest X-ray Report Generation via Diffusion Language Planning, *NeurIPS 2026*. |pdf|code|
+* S2D-Align: Shallow-to-Deep Auxiliary Learning for Anatomically-Grounded Radiology Report Generation, *AAAI 2026*. |[pdf](https://arxiv.org/abs/2511.11066)|code|
 
 # **2024** <div id="2024"></div>
 * Simulating doctors’ thinking logic for chest X-ray report generation via Transformer-based Semantic Query learning, *Medical Image Analysis*. |[pdf](https://www.sciencedirect.com/science/article/pii/S1361841523002426)|[code](https://github.com/zjukongming/TranSQ.)| 
